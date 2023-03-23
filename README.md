@@ -10,6 +10,7 @@ You can like the content or the layout or both. Let us know why it's good.
 * [MariaDB Server (SQL Database Server)](https://mariadb.com/docs/server/) 
 * [Microsoft Technical Documentation](https://learn.microsoft.com/en-us/docs/)
 * [MongoDB Documentation](https://www.mongodb.com/docs/)
+* [GitLab Docs](https://docs.gitlab.com/)
 
 ## Writing Documentation:
 * [Write the Docs](https://www.writethedocs.org/)
