@@ -1,6 +1,8 @@
 # Good-documentation
 What documentation do you use to give you ideas?
 
+You can like the content or the layout or both. Let us know why it's good. 
+
 ## Documentation that we read:
 * [GitHub Documentation](https://docs.github.com/en)
 * [GitLab Docs](https://docs.gitlab.com/)
