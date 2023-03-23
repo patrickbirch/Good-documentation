@@ -9,3 +9,4 @@ What documentation do you use to give you ideas?
 ## Writing documentation:
 * [Write the Docs](https://www.writethedocs.org/)
 * [Google Developer Documentation Style Guide](https://developers.google.com/style)
+* [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
